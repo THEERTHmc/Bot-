@@ -1,2 +1,5 @@
-# Bot-
-make a bot (test)
+- 👋 Hi, I’m @THEERTHmc
+- 👀 I’m interested in making a BOT
+- 🌱 I’m currently learning javascipt
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
